@@ -22,7 +22,7 @@ void main() =>runApp(HelloFlutter());
         ),
       body:const Center(
         child:Text(
-          "hello flutter",
+          "hello flutter///",
           style:TextStyle(fontSize:30,color:Colors.white)),)
       )
       )
